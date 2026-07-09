@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--<h1 align="center">Hi 👋, I'm Gurasees Singh</h1>
+<h1 align="center">Hi 👋, I'm Gurasees Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurasees30" alt="gurasees30" /></a> </p>
@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
